@@ -1,0 +1,257 @@
+Title Name                          Artist                 Average # of Streams 
+10000 Hours                         Dan + Shay                   4940812 
+24                                  Money Man                    5413810 
+34+35                               Ariana Grande               26153463 
+7 rings                             Ariana Grande                5982398 
+Adore You                           Harry Styles                 8227942 
+After Party                         Don Toliver                  5130452 
+Agua                                Tainy                        7190335 
+All Girls Are The Same              Juice WRLD                   5809760 
+All I Want for Christmas Is You     Mariah Carey                 5008815 
+All of Me                           John Legend                  5444729 
+Angeklagt                           Bonez MC                     6221948 
+Are You Bored Yet?                  Wallows                      5075256 
+At My Worst                         Pink Sweat$                  4835211 
+Ay DiOs Mío!                        KAROL G                     12079018 
+Ayer Me Llamó Mi Ex                 KHEA                         5904102 
+Azul                                J Balvin                     6221456 
+Baby I'm Jealous                    Bebe Rexha                   5632769 
+bad guy                             Billie Eilish                7357688 
+Bande organisée                     13 Organisé                  5409295 
+Be Alright                          Dean Lewis                   5450606 
+Be Kind                             Marshmello                   5889158 
+Be Like That                        Kane Brown                   6125508 
+Beautiful People                    Ed Sheeran                   5140249 
+Before You Go                       Lewis Capaldi               12070625 
+Believer                            Imagine Dragons              6491706 
+Bet You Wanna                       BLACKPINK                    8828378 
+Better                              ZAYN                         4933462 
+BICHOTA                             KAROL G                      6904120 
+Blinding Lights                     The Weeknd                  22261500 
+Blueberry Eyes                      MAX                          5567719 
+Blueberry Faygo                     Lil Mosey                    8899684 
+Bohemian Rhapsody                   Queen                        5286084 
+Boy With Luv                        BTS                          4769903 
+Break My Heart                      Dua Lipa                     7067850 
+Breaking Me                         Topic                       12455296 
+Bruises                             Lewis Capaldi                4560503 
+Caramelo                            Ozuna                        8302007 
+Caramelo                            Ozuna                        9059400 
+Caramelo - Remix                    Ozuna                        5611962 
+Chica Ideal                         Sebastian Yatra              6991128 
+Circles                             Post Malone                  8722323 
+Come & Go                           Juice WRLD                  11053437 
+Crazy Over You                      BLACKPINK                    5630216 
+CÓMO SE SIENTE                      Jhay Cortez                  4632237 
+Daddy Issues                        The Neighbourhood            5220027 
+Daisy                               Ashnikko                     9667791 
+Dakiti                              Bad Bunny                   36489203 
+Dance Monkey                        Tones And I                 11940800 
+Dancing With A Stranger             Sam Smith                    5229835 
+death bed (coffee for your head)    Powfu                        9894542 
+Deep End                            Fousheé                      7878798 
+Despeinada                          Ozuna                       11442340 
+Diamonds                            Sam Smith                    7913055 
+Dior                                Pop Smoke                    6424230 
+Djadja                              Aya Nakamura                 6637284 
+DOLLAZ ON MY HEAD                   Gunna                        4837719 
+Don Don                             Daddy Yankee                 6014867 
+Don't Start Now                     Dua Lipa                     9909167 
+Dreams                              Fleetwood Mac               13681406 
+Dynamite                            BTS                         25091442 
+E-GIRLS ARE RUINING MY LIFE!        CORPSE                       5162069 
+El Mismo Aire                       Camilo                       4803474 
+Electric Love                       BØRNS                        6644032 
+Elegí                               Rauw Alejandro               4745491 
+Enchule                             Rauw Alejandro               5349546 
+everything i wanted                 Billie Eilish                5763077 
+Fake                                Lauv                         5287383 
+Falling                             Harry Styles                 7038214 
+Falling                             Trevor Daniel                7126944 
+Favorito                            Camilo                       5782537 
+Fever                               Dua Lipa                     8235761 
+For The Night                       Pop Smoke                   21101066 
+Forever After All                   Luke Combs                  10190126 
+forget me too                       Machine Gun Kelly            4751756 
+FRANCHISE                           Travis Scott                 6582289 
+Get You The Moon                    Kina                         4883038 
+Glock In My Lap                     21 Savage                    4947593 
+Go Crazy                            Chris Brown                  8678456 
+Godzilla                            Eminem                       5208751 
+Golden                              Harry Styles                 8852805 
+goosebumps                          Travis Scott                 8186731 
+Got It On Me                        Pop Smoke                    5589712 
+GREECE                              DJ Khaled                    6512984 
+Happier                             Marshmello                   4876941 
+Hasta Que Dios Diga                 Anuel AA                     5163715 
+Hate The Way                        G-Eazy                       5116071 
+Hawái                               Maluma                      24404297 
+Head & Heart                        Joel Corry                  18417443 
+Head Shoulders Knees & Toes         Ofenbach                     5314990 
+Heart Of Glass                      Miley Cyrus                  5051519 
+Heather                             Conan Gray                  15145549 
+Hello                               Pop Smoke                    5510493 
+HIGHEST IN THE ROOM                 Travis Scott                 7299510 
+Highway to Hell                     AC/DC                        5096618 
+Holy                                Justin Bieber               20934972 
+hot girl bummer                     blackbear                    5409619 
+How You Like That                   BLACKPINK                   10497444 
+I CAN'T STOP ME                     TWICE                        7415625 
+I Don't Care                        Ed Sheeran                   5573221 
+Ice Cream                           BLACKPINK                   12907015 
+If the World Was Ending             JP Saxe                      6831798 
+ily (i love you baby)               Surf Mesa                    7381492 
+In the End                          Linkin Park                  4786101 
+In Your Eyes                        The Weeknd                   5331374 
+Intentions                          Justin Bieber                7219350 
+Investe Em Mim                      Jonas Esticado               5033096 
+It's You                            Ali Gatie                    4664433 
+Jeans                               Justin Quiles               10655455 
+Jerusalema                          Master KG                    6792047 
+Jocelyn Flores                      XXXTENTACION                 5891096 
+July                                Noah Cyrus                   4598766 
+just like magic                     Ariana Grande               13662237 
+Kids Again                          Sam Smith                    5103194 
+Kings & Queens                      Ava Max                      7480604 
+La Curiosidad                       Jay Wheeler                 13324439 
+La Jeepeta                          Nio Garcia                  10472438 
+La Nota                             Manuel Turizo                9399895 
+La Tóxica                           Farruko                     13676793 
+Laugh Now Cry Later                 Drake                       16121159 
+Lean                                Super Yei                    6262162 
+Lemonade                            Internet Money              29791283 
+Let Her Go                          Passenger                    4776637 
+Let Me Love You Like A Woman        Lana Del Rey                 4665053 
+Levitating                          Dua Lipa                    10083779 
+Life Is Good                        Future                       6426392 
+Lonely                              Justin Bieber               21242008 
+Lose Control                        MEDUZA                       4762350 
+Lose Somebody                       Kygo                         4763313 
+love language                       Ariana Grande                9399230 
+Love To Hate Me                     BLACKPINK                    5696602 
+lovely                              Billie Eilish                7453279 
+Lovesick Girls                      BLACKPINK                   13035751 
+Lucid Dreams                        Juice WRLD                   7976553 
+Mad at Disney                       salem ilese                  7901571 
+Madrid                              Maluma                       5207539 
+MAMACITA                            Black Eyed Peas              5363519 
+Mamichula                           Trueno                       5477550 
+Martin & Gina                       Polo G                       5968653 
+Me Gusta                            Anitta                       6330937 
+Memories                            Maroon 5                     8147685 
+Mi Cuarto                           Jerry Di                     9399435 
+Mi Niña                             Wisin                        8390963 
+Midnight Sky                        Miley Cyrus                 11638092 
+Mood                                24kGoldn                    35488767 
+Mood Swings                         Pop Smoke                   11073994 
+Moonwalking in Calabasas            DDG                          5007080 
+MORE                                K/DA                         8631303 
+motive                              Ariana Grande               18881677 
+Mr. Right Now                       21 Savage                    7575359 
+my ex's best friend                 Machine Gun Kelly            8674450 
+my future                           Billie Eilish                4917686 
+my hair                             Ariana Grande               11028985 
+Nada                                Cali Y El Dandee             5025747 
+nasty                               Ariana Grande               11773769 
+No Guidance                         Chris Brown                  4641393 
+obvious                             Ariana Grande                9836943 
+off the table                       Ariana Grande               15128629 
+Oh Juliana                          Niack                        4751064 
+OK Not To Be OK                     Marshmello                   5153828 
+Papi Chulo                          Octavian                     5516775 
+Paradise                            MEDUZA                       5191083 
+Parce                               Maluma                       9386932 
+Party Girl                          StaySolidRocky               6391901 
+Perfect                             Ed Sheeran                   5649944 
+Photograph                          Ed Sheeran                   4828089 
+Play Date                           Melanie Martinez             4960628 
+POPSTAR                             DJ Khaled                   12024785 
+PORFA Remix                         Feid                         4727923 
+positions                           Ariana Grande               41465351 
+pov                                 Ariana Grande               14068373 
+Pretty Savage                       BLACKPINK                    8066018 
+Promiscuous                         Nelly Furtado                5155095 
+Put Your Records On                 Ritt Momney                 15070156 
+Quiéreme Mientras Se Pueda          Manuel Turizo                5630539 
+Rain On Me                          Lady Gaga                    8966787 
+Recairei                            Os Barões Da Pisadinha       5403884 
+Relación                            Sech                         5383856 
+Relación - Remix                    Sech                        16372848 
+Reloj                               Rauw Alejandro               6967940 
+Ride It                             Regard                       6063066 
+Robbery                             Juice WRLD                   7507440 
+ROCKSTAR                            DaBaby                      16517456 
+rockstar                            Post Malone                  5207510 
+Rojo                                J Balvin                     5222325 
+Roses                               SAINt JHN                   13491690 
+ROXANNE                             Arizona Zervas               6203416 
+Runnin                              21 Savage                    7030481 
+SAD!                                XXXTENTACION                 5332130 
+Safaera                             Bad Bunny                    4880513 
+safety net                          Ariana Grande               12386645 
+Savage Love                         Jawsh 685                    8472894 
+Savage Love                         Jawsh 685                    6426196 
+Savage Love (Laxed - Siren Beat)    Jawsh 685                   15491158 
+Say So                              Doja Cat                     5450512 
+Say You Won't Let Go                James Arthur                 6295568 
+Se Te Nota                          Lele Pons                   12675348 
+Señorita                            Shawn Mendes                 8064555 
+Shallow                             Lady Gaga                    7095021 
+Shape of You                        Ed Sheeran                   5452015 
+shut up                             Ariana Grande               12968870 
+SICKO MODE                          Travis Scott                 6762103 
+six thirty                          Ariana Grande               10941573 
+SLOW DANCING IN THE DARK            Joji                         4655948 
+Smile                               Juice WRLD                   6408603 
+SO DONE                             The Kid LAROI                7734082 
+Sofia                               Clairo                       8919058 
+Someone Like You                    Adele                        4703672 
+Someone To You                      BANNERS                      5874867 
+Someone You Loved                   Lewis Capaldi               13346645 
+Something Just Like This            The Chainsmokers             4668573 
+Spicy                               Ty Dolla $ign                8337032 
+Star Shopping                       Lil Peep                     4837352 
+Still Don't Know My Name            Labrinth                     5999505 
+Stuck with U                        Ariana Grande                8414434 
+Stunnin'                            Curtis Waters                5339028 
+Sunday Best                         Surfaces                     5209288 
+Sunflower                           Post Malone                  7632078 
+Supalonely                          BENEE                        5089970 
+Sweater Weather                     The Neighbourhood            6579682 
+Sweet Melody                        Little Mix                   5992663 
+Take Me To Church                   Hozier                       4815591 
+Take You Dancing                    Jason Derulo                12695513 
+Tattoo                              Rauw Alejandro              10645342 
+thank u next                        Ariana Grande                5079328 
+The Box                             Roddy Ricch                  7933585 
+The Business                        Tiësto                       5128906 
+The Less I Know The Better          Tame Impala                  4860412 
+THE SCOTTS                          THE SCOTTS                   5132907 
+The Woo                             Pop Smoke                    7330858 
+Thinking out Loud                   Ed Sheeran                   4810535 
+Thriller                            Michael Jackson              5605234 
+Tick Tock                           Clean Bandit                 7005892 
+TKN                                 ROSALÍA                      4946123 
+Toosie Slide                        Drake                        6985182 
+Train Wreck                         James Arthur                 7363848 
+Tusa                                KAROL G                      6980979 
+Tyler Herro                         Jack Harlow                  9023793 
+UN DIA (ONE DAY)                    J Balvin                    13146795 
+Una Locura                          Ozuna                       11575911 
+Vida de Rico                        Camilo                      13375732 
+WAP                                 Cardi B                     25695289 
+Watermelon Sugar                    Harry Styles                20182777 
+west side                           Ariana Grande                9397167 
+What You Know Bout Love             Pop Smoke                   23784999 
+WHATS POPPIN                        Jack Harlow                  7789969 
+when the party's over               Billie Eilish                5016322 
+Whoopty                             CJ                           5544143 
+Wishing Well                        Juice WRLD                   9486466 
+Without Me                          Halsey                       5067007 
+Wolves                              Big Sean                     5798613 
+Wonder                              Shawn Mendes                15060104 
+Wonderwall                          Oasis                        4622205 
+Yo Perreo Sola                      Bad Bunny                    4866709 
+you broke me first                  Tate McRae                  17981431 
+You Got It                          Vedo                         6411205 
+You Never Know                      BLACKPINK                    5304382 
